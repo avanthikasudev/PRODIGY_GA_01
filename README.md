@@ -35,10 +35,3 @@ This project demonstrates how to fine-tune OpenAI’s GPT-2 model on a custom te
 - tqdm  
 
 ---
-
-## 📦 Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
